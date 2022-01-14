@@ -1,5 +1,5 @@
 # cocktail-chatbot
-A simple chatbot inspired by my first internship/part-time job as a cocktail salesperson using AI chatbot to act as a virtual cocktail bartender, directly talking to Wechat followers.  
+A simple chatbot for my C++ programming final project in 2018. This application scene was inspired by my first internship/part-time job as a cocktail salesperson using AI chatbot to act as a virtual cocktail bartender, directly talking to Wechat followers.  
 
 Here is my original introduction document on this basic project:  
 
